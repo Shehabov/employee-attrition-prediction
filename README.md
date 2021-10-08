@@ -17,7 +17,7 @@ In this notebook, we attempt to analyze a huge dataset with more than 30 feature
   
 ## Solution
 
-- An advance analysis to uncover the key variables influencing employee turnover.
+- An advance data analysis and visualization to uncover the key variables influencing employee turnover.
 - A prediction model to assist business leaders in knowing which employee is closest to leaving.
 
 
